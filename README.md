@@ -52,3 +52,6 @@ I'm always open to meaningful collaborations and new opportunities.
 
 ---
 
+## 🐍 Watch my contribution graph get eaten by a snake!
+
+![snake gif](https://github.com/BindyaUmayangani/BindyaUmayangani/blob/output/github-contribution-grid-snake.svg)
